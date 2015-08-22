@@ -1,0 +1,2 @@
+INSERT INTO TWEET(ID, MSG) VALUES(1, 'Hello Srilekha.');
+INSERT INTO TWEET(ID, MSG) VALUES(2, 'Hello world..!')
